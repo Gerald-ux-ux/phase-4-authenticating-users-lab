@@ -37,3 +37,5 @@ end
 gem "faker", "~> 2.18"
 
 gem "active_model_serializers", "~> 0.10.12"
+
+gem 'racc', '~> 1.5.2'
